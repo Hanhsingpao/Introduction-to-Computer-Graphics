@@ -1,0 +1,141 @@
+﻿  sample.cpp
+E:\CS550\Final\Final sample\sample.cpp(189,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\CS550\Final\Final sample\sample.cpp(255,16): warning C4305: '=': truncation from 'double' to 'float'
+E:\CS550\Final\Final sample\sample.cpp(288,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\CS550\Final\Final sample\sample.cpp(293,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(293,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(294,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(294,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(301,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\CS550\Final\Final sample\sample.cpp(309,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(309,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(312,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(312,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(315,53): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(315,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(318,53): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(318,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(325,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(344,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(344,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(344,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(346,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(346,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(346,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(348,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(348,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(348,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(350,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(350,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(350,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(354,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(354,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(354,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(356,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(356,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(356,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(358,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(358,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(358,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(360,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(360,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(360,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(365,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(365,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(365,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(367,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(367,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(367,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(369,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(369,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(369,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(371,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(371,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(371,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(375,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(375,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(375,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(377,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(377,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(377,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(379,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(379,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(379,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(381,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(381,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(381,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(386,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(386,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(386,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(388,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(388,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(388,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(390,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(390,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(390,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(392,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(392,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(392,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(396,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(396,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(396,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(398,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(398,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(398,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(400,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(400,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(400,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(402,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(402,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(402,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(447,47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\CS550\Final\Final sample\sample.cpp(569,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(576,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(592,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(593,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(598,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(599,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(619,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(620,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(632,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(633,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(790,23): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\CS550\Final\Final sample\sample.cpp(791,41): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\CS550\Final\Final sample\sample.cpp(797,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\CS550\Final\Final sample\sample.cpp(810,23): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\CS550\Final\Final sample\sample.cpp(813,45): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\CS550\Final\Final sample\sample.cpp(815,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\CS550\Final\Final sample\sample.cpp(821,21): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\CS550\Final\Final sample\sample.cpp(844,16): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\CS550\Final\Final sample\sample.cpp(847,37): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\CS550\Final\Final sample\sample.cpp(850,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\CS550\Final\Final sample\sample.cpp(857,22): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\CS550\Final\Final sample\sample.cpp(865,23): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\CS550\Final\Final sample\sample.cpp(868,43): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\CS550\Final\Final sample\sample.cpp(871,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\CS550\Final\Final sample\sample.cpp(878,20): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\CS550\Final\Final sample\sample.cpp(883,23): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\CS550\Final\Final sample\sample.cpp(886,46): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\CS550\Final\Final sample\sample.cpp(889,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\CS550\Final\Final sample\sample.cpp(892,30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(903,22): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\CS550\Final\Final sample\sample.cpp(907,45): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\CS550\Final\Final sample\sample.cpp(909,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\CS550\Final\Final sample\sample.cpp(915,29): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(917,20): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\CS550\Final\Final sample\sample.cpp(926,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\CS550\Final\Final sample\sample.cpp(939,23): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\CS550\Final\Final sample\sample.cpp(943,46): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\CS550\Final\Final sample\sample.cpp(946,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\CS550\Final\Final sample\sample.cpp(952,29): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(959,23): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\CS550\Final\Final sample\sample.cpp(963,47): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\CS550\Final\Final sample\sample.cpp(966,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\CS550\Final\Final sample\sample.cpp(972,30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\CS550\Final\Final sample\sample.cpp(974,20): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\CS550\Final\Final sample\sample.cpp(980,22): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\CS550\Final\Final sample\sample.cpp(984,44): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\CS550\Final\Final sample\sample.cpp(987,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\CS550\Final\Final sample\sample.cpp(991,20): warning C4305: 'argument': truncation from 'double' to 'float'
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> E:\CS550\Final\Final sample\Debug\Sample.exe
