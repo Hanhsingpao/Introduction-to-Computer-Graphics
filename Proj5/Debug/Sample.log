@@ -1,3 +1,0 @@
-﻿  sample.cpp
-sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
-  Sample.vcxproj -> E:\CS550\project5-answer\project5\Project 5\Debug\Sample.exe
