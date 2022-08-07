@@ -1,0 +1,56 @@
+﻿  sample.cpp
+D:\project1\SampleFreeGlut2019-2\sample.cpp(741,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(742,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(743,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(744,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(749,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\project1\SampleFreeGlut2019-2\sample.cpp(752,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(752,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(752,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(753,54): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(753,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(753,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(754,56): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(754,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(754,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(755,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(755,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(755,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(763,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(763,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(763,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(764,54): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(764,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(764,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(765,60): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(765,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(765,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(766,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(766,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(766,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(774,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(774,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(774,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(775,52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(775,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(775,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(776,54): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(776,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(776,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(777,54): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(777,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(777,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(785,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(785,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(785,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(786,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(786,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(786,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(787,54): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(787,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(787,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(788,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(788,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\project1\SampleFreeGlut2019-2\sample.cpp(788,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> D:\project1\SampleFreeGlut2019-2\Debug\Sample.exe

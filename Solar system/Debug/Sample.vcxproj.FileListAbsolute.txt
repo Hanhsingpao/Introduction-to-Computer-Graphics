@@ -1,3 +1,0 @@
-C:\MJB\CS550\SampleFreeGlut2019\Debug\Sample.exe
-D:\CS550\Final\Final sample\Debug\Sample.exe
-E:\CS550\Final\Final sample\Debug\Sample.exe
